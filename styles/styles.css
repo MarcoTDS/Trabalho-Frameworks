@@ -20,3 +20,11 @@ iframe{
     width: 100%;
     height: 500px;
 }
+.card{
+    height: 550px;
+}
+#loc{
+    width: 1220px;
+    height: 700px;
+    margin-bottom: 15px;
+  }
