@@ -22,6 +22,11 @@ iframe{
 }
 .card{
     height: 550px;
+    background-color: #808080;
+    
+}
+.card-text{
+    color:#fff;
 }
 #loc{
     width: 1220px;
