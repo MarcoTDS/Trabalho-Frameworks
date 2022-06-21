@@ -22,7 +22,7 @@ iframe{
 }
 .card{
     height: 550px;
-    background-color: #808080;
+    background-image: linear-gradient(to bottom right, #0CB8AE, #0D25B9);
     
 }
 .card-text{
@@ -47,5 +47,8 @@ iframe{
     #fundocarta{
         background-image:url(../among.jpg);
         }
+    .card{
+        background-image: linear-gradient(to bottom right,#000000, #262629);
+    }   
 
     }
